@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/layout-land/fui_auth_method_picker_layout.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/layout-land/fui_auth_method_picker_layout.xml"
+    }
+]

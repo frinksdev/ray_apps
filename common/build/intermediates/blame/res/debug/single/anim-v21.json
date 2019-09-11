@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    }
+]

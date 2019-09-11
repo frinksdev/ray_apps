@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    }
+]

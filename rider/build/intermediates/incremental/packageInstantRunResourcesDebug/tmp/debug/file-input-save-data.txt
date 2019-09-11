@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Aug 29 11:16:00 CDT 2019
+1.base=/home/aedar/ray_app/android/rider/build/intermediates/merged_assets/debug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=car.json
+0.set=ASSET
+0.base=/home/aedar/ray_app/android/rider/build/intermediates/merged_assets/debug/out
+1.path=crashlytics-build.properties

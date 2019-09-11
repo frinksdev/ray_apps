@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/fui_slide_out_left.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/anim/fui_slide_out_left.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/interpolator_slight_anticipate.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/anim/interpolator_slight_anticipate.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/bt_expiration_date_dialog_close.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/anim/bt_expiration_date_dialog_close.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/bt_slide_in_up.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/anim/bt_slide_in_up.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/mtrl_card_lowers_interpolator.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/fui_slide_in_right.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/anim/fui_slide_in_right.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/alerter_slide_out_to_top.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/anim/alerter_slide_out_to_top.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/bt_bottom_sheet_dialog_open.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/anim/bt_bottom_sheet_dialog_open.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/popup_enter.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/anim/popup_enter.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/bt_expiration_date_dialog_open.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/anim/bt_expiration_date_dialog_open.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/bt_error_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/anim/bt_error_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/interpolator_slight_overshoot.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/anim/interpolator_slight_overshoot.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/popup_exit.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/anim/popup_exit.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/alerter_slide_in_from_top.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/anim/alerter_slide_in_from_top.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/decelerate_cubic.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/anim/decelerate_cubic.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/alerter_pulse.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/anim/alerter_pulse.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/bt_bottom_sheet_dialog_close.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/anim/bt_bottom_sheet_dialog_close.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/bt_slide_out_down.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/anim/bt_slide_out_down.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/anim/abc_tooltip_enter.xml"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_btn_state_list_anim.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_extended_fab_hide_motion_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_extended_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_extended_fab_show_motion_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_extended_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_extended_fab_state_list_animator.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_extended_fab_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_extended_fab_shrink_motion_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_extended_fab_shrink_motion_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_chip_state_list_anim.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/design_fab_hide_motion_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_extended_fab_extend_motion_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_extended_fab_extend_motion_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/design_fab_show_motion_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/animator/mtrl_card_state_list_anim.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/animator/mtrl_card_state_list_anim.xml"
+    }
+]

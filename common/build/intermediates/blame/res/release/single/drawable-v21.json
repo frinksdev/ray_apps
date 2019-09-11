@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/mtrl_popupmenu_background.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-v21/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/md_btn_shape.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/md_btn_selector_ripple.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/drawable-v21/md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/fui_idp_button_background_facebook.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/drawable-v21/fui_idp_button_background_facebook.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/bt_payment_method_list_item_bg.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-v21/bt_payment_method_list_item_bg.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/fui_idp_button_background_twitter.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/drawable-v21/fui_idp_button_background_twitter.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/fui_idp_button_background_phone.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/drawable-v21/fui_idp_button_background_phone.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/fui_idp_button_background_github.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/drawable-v21/fui_idp_button_background_github.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/fui_idp_button_background_email.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/drawable-v21/fui_idp_button_background_email.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/fui_idp_button_background_google.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/drawable-v21/fui_idp_button_background_google.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/fui_idp_button_background_anonymous.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/drawable-v21/fui_idp_button_background_anonymous.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/md_btn_selector_ripple_dark.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/drawable-v21/md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

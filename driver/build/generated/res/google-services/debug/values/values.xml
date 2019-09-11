@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">692038892064-cfr8dgs7fooplbtg5gu1n6o3i59loora.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ray-conductor.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">692038892064</string>
+    <string name="google_api_key" translatable="false">AIzaSyAjg6A52iHKbs4vyxiDYC4s2dNS5sbzeRQ</string>
+    <string name="google_app_id" translatable="false">1:692038892064:android:86201b66106ac8df141a45</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAjg6A52iHKbs4vyxiDYC4s2dNS5sbzeRQ</string>
+    <string name="google_storage_bucket" translatable="false">ray-conductor.appspot.com</string>
+    <string name="project_id" translatable="false">ray-conductor</string>
+</resources>

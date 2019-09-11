@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63414755916",
+    "firebase_url": "https://ray-taxi-seguro.firebaseio.com",
+    "project_id": "ray-taxi-seguro",
+    "storage_bucket": "ray-taxi-seguro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63414755916:android:982aa0bc47e8fe7a8d4ae9",
+        "android_client_info": {
+          "package_name": "com.ray.taxi.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63414755916-q3n3t875af08756ftus4r5vqmq8n893g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ray.taxi.rider",
+            "certificate_hash": "a9d70b44e954ba79a813a79d42da84b6a4ece581"
+          }
+        },
+        {
+          "client_id": "63414755916-m33ivcct191e4fqm3uhi3blc084ig7sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvegdYoD9ekuUxwsKtZwDzXFPsH2KMMzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63414755916-m33ivcct191e4fqm3uhi3blc084ig7sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

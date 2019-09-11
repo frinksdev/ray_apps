@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.savvyapps:ToggleButtonLayout:java-SNAPSHOT@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a43504bd8a3410ad52f8b39b16a5e7e9/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a43504bd8a3410ad52f8b39b16a5e7e9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a43504bd8a3410ad52f8b39b16a5e7e9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.savvyapps/ToggleButtonLayout/java-SNAPSHOT/fe8648b91fc50305de852d919590676a9170750e/ToggleButtonLayout-java-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

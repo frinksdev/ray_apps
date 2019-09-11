@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

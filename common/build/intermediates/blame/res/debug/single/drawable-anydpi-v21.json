@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/alerter_ic_face.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/drawable-anydpi-v21/alerter_ic_face.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/drawable-anydpi-v21/md_nav_back.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-anydpi-v21/alerter_ic_notifications.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/drawable-anydpi-v21/alerter_ic_notifications.xml"
+    }
+]

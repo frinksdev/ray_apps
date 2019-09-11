@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Sep 10 02:47:58 CDT 2019
+2.base=/home/aedar/ray_app/android/rider/build/intermediates/transforms/dexMerger/debug/0
+5.set=DEX
+0.path=classes2.dex
+2.baseType=DIRECTORY
+3.base=/home/aedar/ray_app/android/rider/build/intermediates/transforms/dexMerger/debug/0
+2.set=DEX
+1.path=crashlytics-build.properties
+4.base=/home/aedar/ray_app/android/rider/build/intermediates/merged_assets/debug/out
+count=6
+5.baseType=DIRECTORY
+2.path=classes4.dex
+5.base=/home/aedar/ray_app/android/rider/build/intermediates/transforms/dexMerger/debug/0
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=car.json
+1.baseType=DIRECTORY
+5.path=classes3.dex
+0.base=/home/aedar/ray_app/android/rider/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/home/aedar/ray_app/android/rider/build/intermediates/merged_assets/debug/out
+4.baseType=DIRECTORY
+0.set=DEX

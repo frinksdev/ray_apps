@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkData":{"type":"MAIN","splits":[],"versionCode":20,"versionName":"2.10.1","enabled":true,"outputFile":"driver-release.apk","fullName":"release","baseName":"release"},"path":"resources-release.ap_","properties":{"packageId":"com.ray.taxi.driver","split":"","minSdkVersion":"16"}}]

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aedar/ray_app/android/driver/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

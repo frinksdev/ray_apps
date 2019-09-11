@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/font/roboto_light.ttf",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/font/roboto_light.ttf"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/font/roboto_medium.ttf",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/font/roboto_black.ttf",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/font/roboto_black.ttf"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/font/roboto_regular.ttf",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/font/roboto.xml",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/font/roboto.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/font/roboto_thin.ttf",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/font/roboto_thin.ttf"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/font/roboto_bold.ttf",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/font/roboto_bold.ttf"
+    }
+]

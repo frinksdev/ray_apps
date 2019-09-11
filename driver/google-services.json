@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692038892064",
+    "firebase_url": "https://ray-conductor.firebaseio.com",
+    "project_id": "ray-conductor",
+    "storage_bucket": "ray-conductor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692038892064:android:86201b66106ac8df141a45",
+        "android_client_info": {
+          "package_name": "com.ray.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692038892064-sm44krnm7lghodk7pp6a2ht43t5l86in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ray.taxi.driver",
+            "certificate_hash": "a9d70b44e954ba79a813a79d42da84b6a4ece581"
+          }
+        },
+        {
+          "client_id": "692038892064-cfr8dgs7fooplbtg5gu1n6o3i59loora.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjg6A52iHKbs4vyxiDYC4s2dNS5sbzeRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692038892064-cfr8dgs7fooplbtg5gu1n6o3i59loora.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

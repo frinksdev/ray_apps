@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:11:5-26:19
+activity#com.innomalist.taxi.common.activities.chat.ChatActivity
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:12:9-66
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:12:19-63
+activity#com.innomalist.taxi.common.activities.travels.TravelsActivity
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:13:9-72
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:13:19-69
+activity#com.innomalist.taxi.common.activities.contactUs.ContactUsActivity
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:14:9-76
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:14:19-73
+activity#com.innomalist.taxi.common.activities.chargeAccount.PaymentCallbackActivity
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:15:9-24:20
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:15:19-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:taxi
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:16:13-23:29
+action#android.intent.action.VIEW
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:19:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:20:27-75
+data
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:22:17-47
+	android:scheme
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:22:23-44
+activity#com.innomalist.taxi.common.activities.transactions.TransactionsActivity
+ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:25:9-82
+	android:name
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml:25:19-79
+uses-sdk
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+		ADDED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml
+		INJECTED from /home/aedar/ray_app/android/common/src/main/AndroidManifest.xml

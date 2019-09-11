@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_os_notification_fallback_white_24dp.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/9aede4835ecae092bf3eeb7cf4347b67/res/drawable-xhdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_unknown.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_unknown.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_sms_code.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_sms_code.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ucrop_ic_next.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-xhdpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_sms_code_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_sms_code_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/sv_ic_chevron_double_right.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/6236a429d2c37ffb13d169631ff9be2e/res/drawable-xhdpi-v4/sv_ic_chevron_double_right.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/design_ic_visibility.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-xhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_mobile_number.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_mobile_number.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ef_ic_arrow_forward.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f4a416140e76034a5d45f1f565bbde4b/res/drawable-xhdpi-v4/ef_ic_arrow_forward.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_notification_message.png",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/drawable-xhdpi/ic_notification_message.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ucrop_ic_reset.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-xhdpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_maestro.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_maestro.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/alerter_ic_notifications.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/drawable-xhdpi-v4/alerter_ic_notifications.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_visa.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_visa.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_maestro.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_maestro.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f09d05cfd72388d19f1e091bad476a5c/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ucrop_ic_done.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-xhdpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_postal_code.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_postal_code.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_cardholder_name.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_cardholder_name.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_paypal.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_paypal.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/sv_ic_chevron_double_right_white.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/6236a429d2c37ffb13d169631ff9be2e/res/drawable-xhdpi-v4/sv_ic_chevron_double_right_white.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/alerter_ic_face.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/drawable-xhdpi-v4/alerter_ic_face.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_camera_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_camera_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ef_ic_camera_white.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f4a416140e76034a5d45f1f565bbde4b/res/drawable-xhdpi-v4/ef_ic_camera_white.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_cardholder_name_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_cardholder_name_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_discover.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_discover.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_unionpay.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_unionpay.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f09d05cfd72388d19f1e091bad476a5c/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_expand_more_black_18dp.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/35f7648c257d55d7ee18d573c25ec32c/res/drawable-xhdpi/ic_expand_more_black_18dp.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_camera.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_camera.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_destination.png",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/drawable-xhdpi/marker_destination.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ef_ic_arrow_back.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f4a416140e76034a5d45f1f565bbde4b/res/drawable-xhdpi-v4/ef_ic_arrow_back.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f09d05cfd72388d19f1e091bad476a5c/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_amex.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_amex.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_unknown.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_unknown.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ucrop_ic_cross.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-xhdpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_google_pay.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_google_pay.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ucrop_ic_angle.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-xhdpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_postal_code_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_postal_code_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ucrop_ic_scale.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-xhdpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_diners_club.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_diners_club.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_card.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_card.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/md_nav_back.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/drawable-xhdpi-v4/md_nav_back.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f09d05cfd72388d19f1e091bad476a5c/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_add_attachment.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bec4ead47bfd70ac174f9792935c8252/res/drawable-xhdpi-v4/ic_add_attachment.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/met_ic_clear.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b38572e2874f39bb0cd0251d349bdef0/res/drawable-xhdpi-v4/met_ic_clear.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_delete_forever.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_delete_forever.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/amu_bubble_shadow.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/7c6675a80254da92bae94463f3d95b1e/res/drawable-xhdpi-v4/amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_mastercard.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_mastercard.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f09d05cfd72388d19f1e091bad476a5c/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_venmo.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_venmo.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_visa.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_visa.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_send.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bec4ead47bfd70ac174f9792935c8252/res/drawable-xhdpi-v4/ic_send.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_paypal.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_paypal.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_unionpay.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_unionpay.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_discover.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_discover.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_jcb.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_jcb.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_taxi.png",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/drawable-xhdpi/marker_taxi.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_mobile_number_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_mobile_number_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_amex.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_amex.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/mask.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bec4ead47bfd70ac174f9792935c8252/res/drawable-xhdpi-v4/mask.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/mask_active.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bec4ead47bfd70ac174f9792935c8252/res/drawable-xhdpi-v4/mask_active.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ucrop_ic_rotate.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-xhdpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/met_ic_close.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b38572e2874f39bb0cd0251d349bdef0/res/drawable-xhdpi-v4/met_ic_close.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_mastercard.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_mastercard.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_diners_club.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_diners_club.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f09d05cfd72388d19f1e091bad476a5c/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_pickup.png",
+        "source": "/home/aedar/ray_app/android/common/src/main/res/drawable-xhdpi/marker_pickup.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_android_pay.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_android_pay.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/design_ic_visibility_off.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_venmo.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_venmo.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/amu_bubble_mask.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/7c6675a80254da92bae94463f3d95b1e/res/drawable-xhdpi-v4/amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ef_ic_done_white.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f4a416140e76034a5d45f1f565bbde4b/res/drawable-xhdpi-v4/ef_ic_done_white.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f09d05cfd72388d19f1e091bad476a5c/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_vaulted_jcb.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xhdpi-v4/bt_ic_vaulted_jcb.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/bt_ic_card_dark.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/912f56c09bb3a64352b67f778c34955d/res/drawable-xhdpi-v4/bt_ic_card_dark.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/ucrop_ic_crop.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-xhdpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/81a7ac78c2fad61f8ffeeb13b31e47bd/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    }
+]

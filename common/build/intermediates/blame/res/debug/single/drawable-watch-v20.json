@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/cdd52b21d95593e9d1fa41d6a598384b/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/cdd52b21d95593e9d1fa41d6a598384b/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/cdd52b21d95593e9d1fa41d6a598384b/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

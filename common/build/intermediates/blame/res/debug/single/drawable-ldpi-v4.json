@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/alerter_ic_face.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/drawable-ldpi-v4/alerter_ic_face.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/alerter_ic_notifications.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/drawable-ldpi-v4/alerter_ic_notifications.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/md_nav_back.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/drawable-ldpi-v4/md_nav_back.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    }
+]
