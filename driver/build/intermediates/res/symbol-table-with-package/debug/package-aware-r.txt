@@ -2484,6 +2484,7 @@ drawable img_coffee
 drawable img_empty_state
 drawable in_location
 drawable logo
+drawable map_pin
 drawable marker_destination
 drawable marker_pickup
 drawable marker_taxi

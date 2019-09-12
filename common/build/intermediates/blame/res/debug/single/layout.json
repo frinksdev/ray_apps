@@ -4,20 +4,20 @@
         "source": "/home/aedar/ray_app/android/common/src/main/res/layout/toolbar_constraint.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/ucrop_activity_photobox.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/layout/ucrop_activity_photobox.xml"
-    },
-    {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/layout/design_layout_snackbar_include.xml"
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/ucrop_activity_photobox.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/fba76d3f6b1e99d8e6fd990079587f28/res/layout/ucrop_activity_photobox.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -56,16 +56,16 @@
         "source": "/home/aedar/ray_app/android/common/src/main/res/layout/activity_transactions.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/back_card.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/607e30b088f7710b21ca80e2c05a3fea/res/layout/back_card.xml"
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bee8db56f304d0e70616290f7af218fb/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/abc_search_view.xml"
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/back_card.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/607e30b088f7710b21ca80e2c05a3fea/res/layout/back_card.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/bt_section_divider.xml",
@@ -104,12 +104,12 @@
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/text_view_with_theme_line_height.xml",
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/layout/text_view_with_theme_line_height.xml"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
@@ -152,16 +152,16 @@
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/ef_fragment_image_picker.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f4a416140e76034a5d45f1f565bbde4b/res/layout/ef_fragment_image_picker.xml"
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/mtrl_calendar_year.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/layout/mtrl_calendar_year.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/item_incoming_text_message.xml",
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bec4ead47bfd70ac174f9792935c8252/res/layout/item_incoming_text_message.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/mtrl_calendar_year.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/layout/mtrl_calendar_year.xml"
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/ef_fragment_image_picker.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/f4a416140e76034a5d45f1f565bbde4b/res/layout/ef_fragment_image_picker.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
@@ -212,16 +212,16 @@
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/item_outcoming_text_message.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bec4ead47bfd70ac174f9792935c8252/res/layout/item_outcoming_text_message.xml"
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/fui_phone_layout.xml",
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/de8ddf940ad13f9880b8f91807ee61da/res/layout/fui_phone_layout.xml"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/item_outcoming_text_message.xml",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/bec4ead47bfd70ac174f9792935c8252/res/layout/item_outcoming_text_message.xml"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/debug/layout/bt_add_card_activity.xml",

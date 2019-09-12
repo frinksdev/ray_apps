@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Sep 10 15:36:15 CDT 2019
+#Thu Sep 12 14:08:06 CDT 2019
 2.base=/home/aedar/ray_app/android/rider/build/intermediates/merged_assets/release/out
 0.path=classes.dex
 2.baseType=DIRECTORY

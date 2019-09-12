@@ -611,24 +611,24 @@ public final class R {
         public static final int ic_billing_mastercard_logo = 0x7f0800e9;
         public static final int ic_billing_visa_logo = 0x7f0800ea;
         public static final int img_amex_center_face = 0x7f080104;
-        public static final int master_back = 0x7f08010e;
-        public static final int mastercard_back_bg = 0x7f08010f;
-        public static final int notification_action_background = 0x7f080133;
-        public static final int notification_bg = 0x7f080134;
-        public static final int notification_bg_low = 0x7f080135;
-        public static final int notification_bg_low_normal = 0x7f080136;
-        public static final int notification_bg_low_pressed = 0x7f080137;
-        public static final int notification_bg_normal = 0x7f080138;
-        public static final int notification_bg_normal_pressed = 0x7f080139;
-        public static final int notification_icon_background = 0x7f08013a;
-        public static final int notification_template_icon_bg = 0x7f08013b;
-        public static final int notification_template_icon_low_bg = 0x7f08013c;
-        public static final int notification_tile_bg = 0x7f08013d;
-        public static final int notify_panel_notification_icon_bg = 0x7f08013e;
-        public static final int sign_strip = 0x7f08014d;
-        public static final int sign_strip_mod = 0x7f08014e;
-        public static final int visacard_back = 0x7f08016c;
-        public static final int visacard_back_bg = 0x7f08016d;
+        public static final int master_back = 0x7f08010f;
+        public static final int mastercard_back_bg = 0x7f080110;
+        public static final int notification_action_background = 0x7f080134;
+        public static final int notification_bg = 0x7f080135;
+        public static final int notification_bg_low = 0x7f080136;
+        public static final int notification_bg_low_normal = 0x7f080137;
+        public static final int notification_bg_low_pressed = 0x7f080138;
+        public static final int notification_bg_normal = 0x7f080139;
+        public static final int notification_bg_normal_pressed = 0x7f08013a;
+        public static final int notification_icon_background = 0x7f08013b;
+        public static final int notification_template_icon_bg = 0x7f08013c;
+        public static final int notification_template_icon_low_bg = 0x7f08013d;
+        public static final int notification_tile_bg = 0x7f08013e;
+        public static final int notify_panel_notification_icon_bg = 0x7f08013f;
+        public static final int sign_strip = 0x7f08014e;
+        public static final int sign_strip_mod = 0x7f08014f;
+        public static final int visacard_back = 0x7f08016d;
+        public static final int visacard_back_bg = 0x7f08016e;
     }
     public static final class id {
         private id() {}

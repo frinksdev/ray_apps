@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "63414755916-eijt5p4c02knlh7cc8e7glnrh8j9ncvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ray.taxi.rider",
+            "certificate_hash": "57ed21d60fb900997510ab0a113cd4f4317086ac"
+          }
+        },
+        {
+          "client_id": "63414755916-g4m85n38h8s0ml699d687403dlhpdhm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ray.taxi.rider",
+            "certificate_hash": "ae5cdff6d2abe8df3226000af01512bc18a08db7"
+          }
+        },
+        {
           "client_id": "63414755916-q3n3t875af08756ftus4r5vqmq8n893g.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

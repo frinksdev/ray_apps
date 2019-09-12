@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "692038892064-nseo3vb9mdhf8ui5kd3dj7gda41q6ca6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ray.taxi.driver",
+            "certificate_hash": "57ed21d60fb900997510ab0a113cd4f4317086ac"
+          }
+        },
+        {
+          "client_id": "692038892064-re5durtanp2q1oce5n7tulqmm1b9is3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ray.taxi.driver",
+            "certificate_hash": "ae5cdff6d2abe8df3226000af01512bc18a08db7"
+          }
+        },
+        {
           "client_id": "692038892064-sm44krnm7lghodk7pp6a2ht43t5l86in.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

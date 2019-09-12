@@ -1,19 +1,19 @@
 [
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/design_ic_visibility_off.png",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
-    },
-    {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/alerter_ic_face.png",
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/c3298c4d1540000eae8cb021bfc8d7ad/res/drawable-xxxhdpi-v4/alerter_ic_face.png"
     },
     {
-        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/bt_ic_vaulted_unknown.png",
-        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xxxhdpi-v4/bt_ic_vaulted_unknown.png"
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/design_ic_visibility_off.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/d32d0d6be0d1d6f18df285336b44825b/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/a8f06920e0cb2ff8290ec7371fbb04e7/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/bt_ic_vaulted_unknown.png",
+        "source": "/home/aedar/.gradle/caches/transforms-2/files-2.1/b24faef4f3479665f8aed8a8f3ddfd5d/res/drawable-xxxhdpi-v4/bt_ic_vaulted_unknown.png"
     },
     {
         "merged": "/home/aedar/ray_app/android/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
