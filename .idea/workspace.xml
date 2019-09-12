@@ -9,7 +9,526 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="004cf7b2-9327-417a-a6d3-ed98974bb2cd" name="Default Changelist" comment="" />
+    <list default="true" id="004cf7b2-9327-417a-a6d3-ed98974bb2cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+es+419/values-b+es+419.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de-rAT/values-de-rAT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de-rCH/values-de-rCH.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIE/values-en-rIE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rSG/values-en-rSG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rZA/values-en-rZA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rAR/values-es-rAR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rBO/values-es-rBO.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rCL/values-es-rCL.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rCO/values-es-rCO.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rCR/values-es-rCR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rDO/values-es-rDO.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rEC/values-es-rEC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rGT/values-es-rGT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rHN/values-es-rHN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rMX/values-es-rMX.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rNI/values-es-rNI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rPA/values-es-rPA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rPE/values-es-rPE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rPR/values-es-rPR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rPY/values-es-rPY.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rSV/values-es-rSV.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUY/values-es-rUY.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rVE/values-es-rVE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fil/values-fil.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCH/values-fr-rCH.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gsw/values-gsw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ln/values-ln.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mo/values-mo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-no/values-no.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-notnight-v8/values-notnight-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-se/values-se.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-small-v4/values-small-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw400dp-v13/values-sw400dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v28/values-v28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w700dp-v13/values-w700dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v21/values-watch-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh/values-zh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-land/fui_auth_method_picker_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-land/mtrl_picker_header_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-ldrtl-v17/md_listitem_multichoice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-ldrtl-v17/md_listitem_singlechoice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-sw600dp-v13/design_layout_snackbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-sw600dp-v13/mtrl_layout_snackbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v14/md_stub_progress.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v14/md_stub_progress_indeterminate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v14/md_stub_progress_indeterminate_horizontal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v16/notification_template_custom_big.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v21/notification_action.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v21/notification_action_tombstone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v21/notification_template_custom_big.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v21/notification_template_icon_group.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-v26/abc_screen_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-watch-v20/abc_alert_dialog_button_bar_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout-watch-v20/abc_alert_dialog_title_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_action_bar_title_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_action_bar_up_container.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_action_menu_item_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_action_menu_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_action_mode_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_action_mode_close_item_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_activity_chooser_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_activity_chooser_view_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_alert_dialog_button_bar_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_alert_dialog_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_alert_dialog_title_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_cascading_menu_item_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_dialog_title_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_expanded_menu_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_list_menu_item_checkbox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_list_menu_item_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_list_menu_item_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_list_menu_item_radio.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_popup_menu_header_item_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_popup_menu_item_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_screen_content_include.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_screen_simple.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_screen_simple_overlay_action_mode.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_screen_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_search_dropdown_item_icons_2line.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_search_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_select_dialog_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/abc_tooltip.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/about_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/about_page_separator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_card_edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_charge_account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_chat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_contact_us.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_mock.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_payment_callback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_transactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_travels.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/alerter_alert_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/amu_info_window.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/amu_text_bubble.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/amu_webview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/back_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/browser_actions_context_menu_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/browser_actions_context_menu_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_add_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_add_card_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_animated_button_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_card_form_fields.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_drop_in_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_edit_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_enrollment_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_expiration_date_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_expiration_date_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_payment_method_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_section_divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_vault_management_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_vault_manager_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/bt_vaulted_payment_method_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/custom_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_bottom_navigation_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_bottom_sheet_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_layout_snackbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_layout_snackbar_include.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_layout_tab_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_layout_tab_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_menu_item_action_area.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_navigation_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_navigation_item_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_navigation_item_separator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_navigation_item_subheader.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_navigation_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_navigation_menu_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_text_input_end_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/design_text_input_start_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/dialog_loading.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/dialog_write_complaint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/drawer_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ef_activity_image_picker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ef_fragment_image_picker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ef_imagepicker_item_folder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ef_imagepicker_item_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ef_imagepicker_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ef_imagepikcer_snackbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_login_step_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_login_step_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/front_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/front_card_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_activity_invisible.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_activity_register_email.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_activity_register_phone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_auth_method_picker_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_check_email_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_confirmation_code_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_dgts_country_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_email_link_cross_device_linking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_email_link_sign_in_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_email_link_trouble_signing_in_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_forgot_password_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_idp_button_facebook.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_idp_button_github.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_idp_button_google.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_idp_button_twitter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_phone_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_provider_button_anonymous.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_provider_button_email.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_provider_button_phone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_register_email_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_welcome_back_email_link_prompt_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_welcome_back_idp_prompt_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fui_welcome_back_password_prompt_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/item_date_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/item_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/item_incoming_image_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/item_incoming_text_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/item_outcoming_image_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/item_outcoming_text_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/item_transaction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/item_travel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/lyt_card_cvv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/lyt_card_expiry.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/lyt_card_holder_name.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/lyt_card_number.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_basic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_basic_check.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_input.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_input_check.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_list_check.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_progress.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_progress_indeterminate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_dialog_progress_indeterminate_horizontal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_listitem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_listitem_multichoice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_listitem_singlechoice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_stub_actionbuttons.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_stub_titleframe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/md_stub_titleframe_lesspadding.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_alert_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_alert_dialog_actions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_alert_dialog_title.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_alert_select_dialog_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_alert_select_dialog_multichoice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_alert_select_dialog_singlechoice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_day.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_day_of_week.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_days_of_week.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_horizontal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_month.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_month_labeled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_month_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_vertical.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_viewpager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_calendar_year.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_layout_snackbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_layout_snackbar_include.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_actions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_fullscreen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_header_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_header_fullscreen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_header_selection_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_header_title_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_header_toggle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_text_input_date.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/mtrl_picker_text_input_date_range.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_action.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_action_tombstone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_media_action.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_media_cancel_action.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_big_media.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_big_media_custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_big_media_narrow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_big_media_narrow_custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_icon_group.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_lines_media.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_media.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_media_custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_part_chronometer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/notification_template_part_time.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/onesignal_bgimage_notif_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/select_dialog_item_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/select_dialog_multichoice_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/select_dialog_singlechoice_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/support_simple_spinner_dropdown_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/sv_slide_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/test_action_chip.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/test_reflow_chipgroup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/test_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/test_toolbar_custom_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/test_toolbar_elevation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/test_toolbar_surface.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/text_view_with_line_height_from_appearance.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/text_view_with_line_height_from_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/text_view_with_line_height_from_style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/text_view_with_theme_line_height.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/text_view_without_line_height.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/toolbar_constraint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ucrop_activity_photobox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ucrop_aspect_ratio.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ucrop_controls.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ucrop_layout_rotate_wheel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ucrop_layout_scale_wheel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/ucrop_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/view_creditcard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/view_message_input.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/merged.dir/values-notnight-v8/values-notnight-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/activity_charge_account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/activity_chat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/activity_contact_us.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/activity_payment_callback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/activity_transactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/activity_travels.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/dialog_loading.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/dialog_write_complaint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/drawer_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/fragment_login_step_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/fragment_login_step_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/item_transaction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/item_travel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/incremental/packageReleaseResources/stripped.dir/layout/toolbar_constraint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-hdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-hdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-hdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-hdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-hdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-hdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-mdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-mdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-mdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-mdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-mdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-mdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xhdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xhdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xhdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xhdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xhdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xhdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxhdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxhdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxhdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxhdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxhdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxhdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxxhdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxxhdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxxhdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxxhdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxxhdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/packaged_res/release/drawable-xxxhdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-hdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-hdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-hdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-hdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-hdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-hdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-mdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-mdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-mdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-mdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-mdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-mdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xhdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxhdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxhdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxhdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxhdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxhdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxhdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-hdpi/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-hdpi/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-hdpi/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-hdpi/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-hdpi/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-hdpi/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-mdpi/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-mdpi/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-mdpi/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-mdpi/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-mdpi/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-mdpi/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xhdpi/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xhdpi/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xhdpi/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xhdpi/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xhdpi/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xhdpi/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xxhdpi/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xxhdpi/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xxhdpi/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xxhdpi/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xxhdpi/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xxhdpi/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xxxhdpi/marker_destination.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xxxhdpi/marker_destination.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xxxhdpi/marker_pickup.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xxxhdpi/marker_pickup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/res/drawable-xxxhdpi/marker_taxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/res/drawable-xxxhdpi/marker_taxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/generated/fabric/res/release/values/com_crashlytics_build_id.xml" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/generated/fabric/res/release/values/com_crashlytics_build_id.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/incremental/mergeReleaseResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/WfJhGuTh46BabgtRur63AWt4xAo=" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/WfJhGuTh46BabgtRur63AWt4xAo=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/merged_assets/release/out/crashlytics-build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/merged_assets/release/out/crashlytics-build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/intermediates/res/merged/release/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/build/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/driver/build/reports/lint-results-release-fatal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/driver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/driver/driver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/generated/fabric/res/release/values/com_crashlytics_build_id.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/generated/fabric/res/release/values/com_crashlytics_build_id.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/generated/source/apt/release/com/innomalist/taxi/rider/RiderEventBusIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/generated/source/apt/release/com/innomalist/taxi/rider/RiderEventBusIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/blame/res/release/multi-v2/release.json" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/blame/res/release/multi-v2/release.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/blame/res/release/single/release.json" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/blame/res/release/single/release.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/incremental/mergeReleaseResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/N9r6JyF20zaGPweVmx52hppl318=" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/N9r6JyF20zaGPweVmx52hppl318=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/innomalist/taxi/rider/RiderEventBusIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/innomalist/taxi/rider/RiderEventBusIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/merged_assets/release/out/crashlytics-build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/merged_assets/release/out/crashlytics-build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-hdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-mdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xhdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxhdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_destination.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_destination.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_pickup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_pickup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_taxi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_marker_taxi.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/res/merged/release/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/transforms/dexBuilder/release/326/com/innomalist/taxi/rider/RiderEventBusIndex.dex" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/transforms/dexBuilder/release/326/com/innomalist/taxi/rider/RiderEventBusIndex.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/transforms/dexMerger/release/0/classes2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/transforms/dexMerger/release/0/classes2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/intermediates/transforms/dexMerger/release/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/intermediates/transforms/dexMerger/release/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/build/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/rider/build/reports/lint-results-release-fatal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/release/ray_conductor.apk" beforeDir="false" afterPath="$PROJECT_DIR$/rider/release/ray_conductor.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/release/ray_taxi.apk" beforeDir="false" afterPath="$PROJECT_DIR$/rider/release/ray_taxi.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rider/rider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rider/rider.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,18 +585,18 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rider/src/main/res/layout/activity_splash.xml">
-          <provider selected="true" editor-type-id="android-designer2" />
           <provider editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest" />
           <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-manifest" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -93,7 +612,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/driver/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="-455">
               <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
             </state>
           </provider>
@@ -117,6 +636,9 @@
     <option name="KEY_STORE_PATH" value="$USER_HOME$/keystore.jks" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,19 +681,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="common" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="common" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
             <path>
               <item name="android" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -180,8 +694,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -399,13 +912,13 @@
       <window_info id="Resources Explorer" order="7" weight="0.32980332" />
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4969743" weight="0.3289689" />
-      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4924357" weight="0.3289689" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4924357" weight="0.32786885" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.3295082" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4969743" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.48940998" visible="true" weight="0.33878887" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.48940998" visible="true" weight="0.33770493" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" weight="0.3289689" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -418,52 +931,52 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/activity_payment_callback.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/activity_transactions.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/activity_travels.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/dialog_loading.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/fragment_login_step_first.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/fragment_login_step_second.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/item_transaction.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/item_travel.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/toolbar.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/toolbar_constraint.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/menu/actionbar_save.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/menu/payment_methods.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/innomalist/taxi/common/activities/login/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -490,64 +1003,64 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/layout/activity_addresses.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/layout/activity_main_search_location.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/layout/activity_settings.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/layout/dialog_request_service.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/layout/activity_edit_profile.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/menu/main_activity_menu.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/menu/actionbar_add.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/menu/main_drawer.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/menu/search_view.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/driver/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/driver/src/main/res/layout/activity_splash.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/driver/src/main/res/layout/activity_statistics.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/driver/src/main/res/drawable/dotted.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -559,12 +1072,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/layout/drawer_header.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -621,8 +1134,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/driver/src/main/res/menu/main_drawer.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -632,24 +1145,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/driver/src/main/res/layout/activity_edit_profile.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rider/src/main/res/layout/activity_splash.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
@@ -659,7 +1172,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/driver/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="-455">
           <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
         </state>
       </provider>
